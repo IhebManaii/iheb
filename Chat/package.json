@@ -1,0 +1,19 @@
+{
+  "name": "Chat",
+  "version": "0.0.1",
+  "description": "simple chat application",
+  "main": "app.js",
+  "keywords": [
+    "node",
+    "chat",
+    "system"
+  ],
+  "author": "Asma",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.8.2",
+    "gravatar": "~1.0.6",
+    "socket.io": "1.0.6"
+  }
+}
